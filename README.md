@@ -1,22 +1,22 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F700FF&center=true&width=435&lines=zdevilish1337" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F700FF&center=true&width=435&lines=$limeyboo" alt="Typing SVG" />
 </p>
 
 ---
 
 ## // about-me  
-💗 14 | Philippines  
-🧊 [Revshit 神](https://github.com/zdevilish1337)
+16 | ph, cn  
+[slimey](https://github.com/zimno952)
 
 ---
 
 ## // socials  
-- [YouTube](https://youtube.com/)  
-- [Telegram](https://t.me/)
+- [YouTube](https://youtube.com/@kos1337-z3q)  
+- [discord](https://discord.gg/deadboyslime)
 
 ---
 
-## // revshit  
+## // slimey bum as fuck  
 
 ![Lua](https://img.shields.io/badge/LUA-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
@@ -38,7 +38,7 @@
 
 ---
 
-### • designing & editing  
+### • side shits 
 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
@@ -47,4 +47,4 @@
 
 ---
 
-![Discord](https://discordapp.com/api/guilds/1234567890123456789/widget.png?style=banner2)
+![// $limey.](https://i.pinimg.com/originals/75/c2/f8/75c2f842863ae2df6b3ac2d0a4d63026.gif)
