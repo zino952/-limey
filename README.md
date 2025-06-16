@@ -5,8 +5,8 @@
 ---
 
 ## // about-me  
-16 | ph, cn  
-[slimey](https://github.com/zimno952)
+16 | PH CN  
+[slimey](https://github.com/zino952)
 
 ---
 
