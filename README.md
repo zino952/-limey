@@ -4,10 +4,9 @@
   <p>$limey</p>
 
   <h2>// socials</h2>
-  <p><a href="https://youtube.com/" target="_blank" style="color: #00f;">YouTube</a></p>
-  <p><a href="https://t.me/" target="_blank" style="color: #0ff;">Telegram</a></p>
+  <p><a href="https://www.youtube.com/@kos1337-z3q" target="_blank" style="color: #00f;">YouTube</a></p>
 
-  <h2>// revshit</h2>
+  <h2>// $limey</h2>
   <p><code>lua python c cs cpp html5 css3 javascript java sh typescript bootstrap net nodejs react tailwind mysql</code></p>
 
   <h2>// designing & editing</h2>
