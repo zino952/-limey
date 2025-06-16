@@ -9,6 +9,6 @@
   <h2>// $limey</h2>
   <p><code>lua python c cs cpp html5 css3 javascript java sh typescript bootstrap net nodejs react tailwind mysql</code></p>
 
-  <h2>// designing & editing</h2>
+  <h2>// coding</h2>
   <p><code>vscode visual studio community</code></p>
 </div>
